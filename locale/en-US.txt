@@ -1,0 +1,40 @@
+#: locale=en-US
+
+## E-Learning
+
+### Score du Nom
+score1.label = Score 1
+
+### Écran Heure de fin
+quizTimeout_40797445_024F_5440_417E_8CB7D86D4924.title = - END -
+quizTimeout_40797445_024F_5440_417E_8CB7D86D4924.repeat = Repeat
+quizTimeout_40797445_024F_5440_417E_8CB7D86D4924.score = Show the score
+
+### Écran de rapport
+quizScore_400B3446_024F_5440_417A_F18F67834A76.title = - SCORE -
+quizScore_400B3446_024F_5440_417A_F18F67834A76.completion = Complet
+quizScore_400B3446_024F_5440_417A_F18F67834A76.questionsCorrect = Correct
+quizScore_400B3446_024F_5440_417A_F18F67834A76.downloadCSV = Download .csv
+quizScore_400B3446_024F_5440_417A_F18F67834A76.submitToLMS = Send
+quizScore_400B3446_024F_5440_417A_F18F67834A76.questionsIncorrect = Incorrect
+quizScore_400B3446_024F_5440_417A_F18F67834A76.items = Object found
+quizScore_400B3446_024F_5440_417A_F18F67834A76.questions = Questions
+quizScore_400B3446_024F_5440_417A_F18F67834A76.repeat = Repeat
+quizScore_400B3446_024F_5440_417A_F18F67834A76.elapsedTime = Time
+
+### Écran des questions
+quizQuestion_4072F445_024F_5440_4158_796B156184B8.ok = OK
+
+## Média
+
+### Titre
+panorama_2A5D5595_0245_54C0_4174_A610FB55C5B0.label = AdobeStock_236507964
+panorama_265D12B5_0245_ACC0_4166_CFBC82B5FCFB.label = AdobeStock_275252418
+panorama_28238AE8_0245_BC40_416F_D0A60EEBED78.label = AdobeStock_499713508
+
+## Visite
+
+### Description
+
+### Titre
+tour.name = Quiz Gendarmerie
